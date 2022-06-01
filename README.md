@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marta</h1>
+<h1 align="center">Hi 👋, I'm Marta Torres Burguillo</h1>
 <h3 align="center">A passionate frontend developer from Madrid. I love learning, and I have found in development and programming the way to learn and grow day by day.</h3>
 
 - 💬 Ask me about **react, JavaScript, HTML, Sass**
